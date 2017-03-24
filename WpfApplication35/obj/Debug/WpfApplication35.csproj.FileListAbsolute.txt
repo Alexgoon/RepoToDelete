@@ -1,0 +1,16 @@
+D:\Projects\WpfApplication35\WpfApplication35\bin\Debug\WpfApplication35.exe.config
+D:\Projects\WpfApplication35\WpfApplication35\bin\Debug\WpfApplication35.exe
+D:\Projects\WpfApplication35\WpfApplication35\bin\Debug\WpfApplication35.pdb
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.csprojResolveAssemblyReference.cache
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\MainWindow.baml
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\MainWindow.g.cs
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\App.g.cs
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35_MarkupCompile.cache
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.g.resources
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.Properties.Resources.resources
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.csproj.GenerateResource.Cache
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.exe.licenses
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.exe
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35.pdb
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Projects\WpfApplication35\WpfApplication35\obj\Debug\WpfApplication35_MarkupCompile.lref
